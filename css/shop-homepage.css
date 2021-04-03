@@ -1,0 +1,25 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template/shop-homepage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+a {
+	color: #EB8624;
+}
+a:hover {
+	color: #EB8624;
+	cursor: pointer;
+}
+
+.homeslide {
+	height: 350px;
+	width: 100%;
+}
+.footertitle {
+	color: white;
+	font-size: 20px;
+}
